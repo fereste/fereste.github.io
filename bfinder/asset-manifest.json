@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./bfinder/static/css/main.6682b513.chunk.css",
-    "main.js": "./bfinder/static/js/main.986643c7.chunk.js",
-    "main.js.map": "./bfinder/static/js/main.986643c7.chunk.js.map",
-    "runtime~main.js": "./bfinder/static/js/runtime~main.2bf21e8b.js",
-    "runtime~main.js.map": "./bfinder/static/js/runtime~main.2bf21e8b.js.map",
-    "static/js/2.1250799f.chunk.js": "./bfinder/static/js/2.1250799f.chunk.js",
-    "static/js/2.1250799f.chunk.js.map": "./bfinder/static/js/2.1250799f.chunk.js.map",
-    "index.html": "./bfinder/index.html",
-    "precache-manifest.81c909dcf19746c021f50a10afd4f1a6.js": "./bfinder/precache-manifest.81c909dcf19746c021f50a10afd4f1a6.js",
-    "service-worker.js": "./bfinder/service-worker.js",
-    "static/css/main.6682b513.chunk.css.map": "./bfinder/static/css/main.6682b513.chunk.css.map"
+    "main.css": "/static/css/main.6682b513.chunk.css",
+    "main.js": "/static/js/main.fd46f11c.chunk.js",
+    "main.js.map": "/static/js/main.fd46f11c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.1250799f.chunk.js": "/static/js/2.1250799f.chunk.js",
+    "static/js/2.1250799f.chunk.js.map": "/static/js/2.1250799f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b680a6f79b208f8f6a7d42adcb6b7932.js": "/precache-manifest.b680a6f79b208f8f6a7d42adcb6b7932.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6682b513.chunk.css.map": "/static/css/main.6682b513.chunk.css.map"
   }
 }
