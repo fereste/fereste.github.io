@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c43fa933827c65642fbffa7f51a9dbad",
+    "revision": "26e5d9cc3e7203635423c125504e1b01",
     "url": "/bfinder/index.html"
   },
   {
-    "revision": "c573a916df1792a2d4ed",
+    "revision": "79a12e2286456d7b6cd6",
     "url": "/bfinder/static/css/main.05442212.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bfinder/static/js/2.5193dce6.chunk.js"
   },
   {
-    "revision": "c573a916df1792a2d4ed",
-    "url": "/bfinder/static/js/main.701fe379.chunk.js"
+    "revision": "79a12e2286456d7b6cd6",
+    "url": "/bfinder/static/js/main.5f8b5c58.chunk.js"
   },
   {
     "revision": "680358866eb53b70ea6c",
