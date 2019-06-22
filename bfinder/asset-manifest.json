@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bfinder/static/css/main.05442212.chunk.css",
+    "main.js": "/bfinder/static/js/main.701fe379.chunk.js",
+    "main.js.map": "/bfinder/static/js/main.701fe379.chunk.js.map",
+    "runtime~main.js": "/bfinder/static/js/runtime~main.89202dbd.js",
+    "runtime~main.js.map": "/bfinder/static/js/runtime~main.89202dbd.js.map",
+    "static/js/2.5193dce6.chunk.js": "/bfinder/static/js/2.5193dce6.chunk.js",
+    "static/js/2.5193dce6.chunk.js.map": "/bfinder/static/js/2.5193dce6.chunk.js.map",
+    "index.html": "/bfinder/index.html",
+    "precache-manifest.af7c0af2540d0931e8f4208e0d3845ec.js": "/bfinder/precache-manifest.af7c0af2540d0931e8f4208e0d3845ec.js",
+    "service-worker.js": "/bfinder/service-worker.js",
+    "static/css/main.05442212.chunk.css.map": "/bfinder/static/css/main.05442212.chunk.css.map"
+  }
+}
