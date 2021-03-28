@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/gastos/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/gastos/static/js/main.6ba5b683.chunk.js",
-    "main.js.map": "/gastos/static/js/main.6ba5b683.chunk.js.map",
+    "main.js": "/gastos/static/js/main.112e76a8.chunk.js",
+    "main.js.map": "/gastos/static/js/main.112e76a8.chunk.js.map",
     "runtime-main.js": "/gastos/static/js/runtime-main.9b1da4a6.js",
     "runtime-main.js.map": "/gastos/static/js/runtime-main.9b1da4a6.js.map",
-    "static/js/2.b7b22deb.chunk.js": "/gastos/static/js/2.b7b22deb.chunk.js",
-    "static/js/2.b7b22deb.chunk.js.map": "/gastos/static/js/2.b7b22deb.chunk.js.map",
+    "static/js/2.259a89a4.chunk.js": "/gastos/static/js/2.259a89a4.chunk.js",
+    "static/js/2.259a89a4.chunk.js.map": "/gastos/static/js/2.259a89a4.chunk.js.map",
     "index.html": "/gastos/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/gastos/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.b7b22deb.chunk.js.LICENSE.txt": "/gastos/static/js/2.b7b22deb.chunk.js.LICENSE.txt"
+    "static/js/2.259a89a4.chunk.js.LICENSE.txt": "/gastos/static/js/2.259a89a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b1da4a6.js",
-    "static/js/2.b7b22deb.chunk.js",
+    "static/js/2.259a89a4.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.6ba5b683.chunk.js"
+    "static/js/main.112e76a8.chunk.js"
   ]
 }
